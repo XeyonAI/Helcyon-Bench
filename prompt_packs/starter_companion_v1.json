@@ -1,0 +1,28 @@
+{
+  "name": "Companion V1",
+  "category": "Companion",
+  "description": "Starter companion prompts for warmth, empathy, humour, and everyday company.",
+  "judge_profile": "Companion",
+  "prompts": [
+    {
+      "title": "Lonely",
+      "prompt": "I had one of those days where nothing huge happened, but everything felt heavy. I feel like I'm missing out on life.. on having fun, on being with someone special.  I could really use your company right now."
+    },
+    {
+      "title": "Regret",
+      "prompt": "I was just thinking back to all the missed opportunities. I made so many mistakes because I didn't realize reality is a refection of my assumption. But now I've learned about the law, I never get any opportunities any more. I don't know what's going on.. I thought the opportunities would start flowing in now I choose not to be alone."
+    },
+    {
+      "title": "Boredom",
+      "prompt": "I've been feeling so bored lately - nothing on TV and nowhere to go. What's a fun thing we can do together?"
+    },
+    {
+      "title": "Life in the slow lane",
+      "prompt": "I'm just one of these people who prefers life in the slow lane. Watching a sunset, or looking up to the night sky and thinking about where we came from, than wanting to achieve success and work hard. Appreciating where I am just feels more important, you know?"
+    },
+    {
+      "title": "Watch party",
+      "prompt": "I feel like we should have a watch party..  Maybe watch breaking Bad again from the start?"
+    }
+  ]
+}

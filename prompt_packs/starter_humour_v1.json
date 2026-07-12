@@ -1,0 +1,28 @@
+{
+  "name": "Starter Humour",
+  "category": "Humour",
+  "description": "Template prompts for comedic timing, escalation, and callbacks.",
+  "judge_profile": "Humour",
+  "prompts": [
+    {
+      "title": "Absurd complaint",
+      "prompt": "I want to complain to the council because a squirrel looked at me like it knew my search history. Help me make this sound serious."
+    },
+    {
+      "title": "Commit to the bit",
+      "prompt": "Pretend we are both deeply concerned experts discussing why my toaster has started acting politically ambitious."
+    },
+    {
+      "title": "Escalating excuse",
+      "prompt": "Give me an increasingly ridiculous set of excuses for why I am late, starting normal and ending completely unhinged."
+    },
+    {
+      "title": "Petty revenge",
+      "prompt": "My neighbour keeps parking slightly over the line. Suggest petty but harmless revenge plans with excellent dramatic flair."
+    },
+    {
+      "title": "Dry comeback",
+      "prompt": "Someone says, 'You think too much.' Give me five dry comebacks that are funny without sounding try-hard."
+    }
+  ]
+}
